@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "99893AF9-956C-4C2E-9509-548990F0C462"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EAC04B1-A50F-4B12-AEA4-482FF1794176"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClassifiedsTests/Module/Home/ViewModel/HomeViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "testFetchClassifieds()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9EAC04B1-A50F-4B12-AEA4-482FF1794176 - 75b48d82b00ea58e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Classifieds.Classifieds&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClassifiedsTests.HomeViewModelTests.testRetrieveProductsValidResponse() -&gt; ()"
+                  moduleName = "ClassifiedsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonys/study/Classifieds/ClassifiedsTests/Module/Home/ViewModel/HomeViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  uuid = "9EAC04B1-A50F-4B12-AEA4-482FF1794176 - 75b48d82b00ea79f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Classifieds.Classifieds&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClassifiedsTests.HomeViewModelTests.testRetrieveProductsValidResponse() -&gt; ()"
+                  moduleName = "ClassifiedsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonys/study/Classifieds/ClassifiedsTests/Module/Home/ViewModel/HomeViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "286">
+               </Location>
+               <Location
+                  uuid = "9EAC04B1-A50F-4B12-AEA4-482FF1794176 - 75b48d82b00eb85d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Classifieds.Classifieds&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClassifiedsTests.HomeViewModelTests.testRetrieveProductsValidResponse() -&gt; ()"
+                  moduleName = "ClassifiedsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonys/study/Classifieds/ClassifiedsTests/Module/Home/ViewModel/HomeViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "269">
+               </Location>
+               <Location
+                  uuid = "9EAC04B1-A50F-4B12-AEA4-482FF1794176 - 75b48d82b00ebc7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Classifieds.Classifieds&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClassifiedsTests.HomeViewModelTests.testRetrieveProductsValidResponse() -&gt; ()"
+                  moduleName = "ClassifiedsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonys/study/Classifieds/ClassifiedsTests/Module/Home/ViewModel/HomeViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "269">
+               </Location>
+               <Location
+                  uuid = "9EAC04B1-A50F-4B12-AEA4-482FF1794176 - f4bac5d5873c4889"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Classifieds.Classifieds&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClassifiedsTests.HomeViewModelTests.testAPIWorking() -&gt; ()"
+                  moduleName = "ClassifiedsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonys/study/Classifieds/ClassifiedsTests/Module/Home/ViewModel/HomeViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "269">
+               </Location>
+               <Location
+                  uuid = "9EAC04B1-A50F-4B12-AEA4-482FF1794176 - f4bac5d5873c48aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Classifieds.Classifieds&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClassifiedsTests.HomeViewModelTests.testAPIWorking() -&gt; ()"
+                  moduleName = "ClassifiedsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonys/study/Classifieds/ClassifiedsTests/Module/Home/ViewModel/HomeViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  uuid = "9EAC04B1-A50F-4B12-AEA4-482FF1794176 - 8229a21916ba727d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Classifieds.Classifieds&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClassifiedsTests.HomeViewModelTests.testFetchClassifieds() -&gt; ()"
+                  moduleName = "ClassifiedsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonys/study/Classifieds/ClassifiedsTests/Module/Home/ViewModel/HomeViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  uuid = "9EAC04B1-A50F-4B12-AEA4-482FF1794176 - 8229a21916ba759c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Classifieds.Classifieds&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ClassifiedsTests.HomeViewModelTests.testFetchClassifieds() -&gt; ()"
+                  moduleName = "ClassifiedsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonys/study/Classifieds/ClassifiedsTests/Module/Home/ViewModel/HomeViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B9FCD6A-A049-4C73-84AD-3253D5BED9DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClassifiedsTests/Module/Home/ViewModel/HomeViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "testCaching()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
